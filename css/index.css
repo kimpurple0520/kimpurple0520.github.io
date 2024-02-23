@@ -189,7 +189,7 @@ hr{
 /* tab 제목의 버튼부분*/
 .tabTitle button{
     width: 150px;
-    background-color: beige; /*부모속성 상속*/
+    background-color: inherit; /*부모속성 상속*/
     float:left;
     border: none;
     outline: none;
